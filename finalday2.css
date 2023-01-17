@@ -1,0 +1,64 @@
+div{
+    position:absolute
+}
+.shape1{
+    background-color: red;
+    height: 360px;
+    width: 360px;
+    border-right: 14px solid #000;
+    border-bottom: 14px solid #000;
+}
+
+.shape2{
+    background-color: white;
+    height: 360px;
+    width: 519px;
+    border-bottom: 14px solid #000;
+    left:373px;
+}
+
+.shape3{
+    background-color: white;
+    height:374px;
+    width: 360px;
+    border-right:14px solid #000;
+    top: 373px;
+}
+
+.shape4{
+    background-color: white;
+    height: 300px;
+    width: 400px;
+    border-right: 14px solid #000;
+    border-bottom: 14px solid #000;
+    top: 373px;
+    left:373px;
+}
+
+.shape5{
+    background-color: blue;
+    height: 150px;
+    width: 108px;
+    border-bottom: 24px solid #000;
+    top: 373px;
+    left: 784px;
+}
+
+.shape6{
+    background-color: yellow;
+    height:60px;
+    width: 220px;
+    border-right: 14px solid #000;
+    top: 686px;
+    left:373px;
+}
+
+.shape7{
+    background-color: black;
+    height:60px;
+    width:177px;
+    border-right: 14px solid #000;
+    top:686px;
+    left:596px;
+}
+    
